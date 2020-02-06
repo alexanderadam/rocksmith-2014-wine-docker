@@ -1,0 +1,15 @@
+.git
+*ocksmith*
+home_dir
+wine_dir
+app_data
+releases
+
+hints
+.gitignore
+build.sh
+Dockerfile
+README.md
+*.code-*
+*.sublime-*
+run.sh
