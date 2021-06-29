@@ -18,7 +18,7 @@ Simply pulling and running a proper prebuild Docker image would be nice solution
 
 ## :warning: Disclaimer :warning:
 
-1. I did _not_ get it working. I'm running Rocksmith 2014 within a "real" Windows machine now (and it has bugs even there). I guess the repository could be finished but currently I'm not seeing what is missing.
+1. I did _not_ get it working. I'm running Rocksmith 2014 within a "real" Windows machine now (dual boot — and it has bugs even there). I guess the repository could be finished but currently I'm not seeing what is missing.
 2. This repository is basically a merge of [@PedrioliLab's](https://github.com/PedrioliLab/docker-wine) and [@scottyhardy's](https://github.com/scottyhardy/docker-wine) repositories plus some tweaks and hints I found somewhere else. I think I linked all of them, so this might also help if you are struggeling with Rocksmith 2014 remastered on Wine in general.
 
 
